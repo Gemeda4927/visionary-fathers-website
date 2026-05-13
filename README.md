@@ -1,6 +1,11 @@
 # Visionary Fathers Awakening Group
 
-Modern responsive website built with Next.js for Visionary Fathers Awakening Group.  
-Focused on empowerment, mentorship, leadership development, and community growth.
+A modern, responsive web platform built with Next.js for the Visionary Fathers Awakening Group.
 
+This project is designed to empower fathers through mentorship, leadership development, and community transformation, helping build stronger families and sustainable communities.
 
+---
+
+## Live Website
+
+https://visionary-fathers-website.vercel.app
